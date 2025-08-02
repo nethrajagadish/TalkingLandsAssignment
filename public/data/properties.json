@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "2BHK Apartment in Indiranagar",
+    "location": "Indiranagar",
+    "price": "₹75L",
+    "coordinates": [12.9718, 77.6400]
+  },
+  {
+    "id": 2,
+    "title": "3BHK Villa in Whitefield",
+    "location": "Whitefield",
+    "price": "₹1.2Cr",
+    "coordinates": [12.9699, 77.7490]
+  },
+  {
+    "id": 3,
+    "title": "Studio Flat in Koramangala",
+    "location": "Koramangala",
+    "price": "₹45L",
+    "coordinates": [12.9352, 77.6146]
+  }
+]
